@@ -94,6 +94,8 @@ Real-time Analytics: Live compliance metrics
 
 Responsive Design: Works on all devices
 
+
+
 Task C: Technical Analysis
 Anomaly Detection: Statistical outlier identification
 
