@@ -1,0 +1,21 @@
+{
+  "model_performance": {
+    "r2_score": 0.9948813734748928,
+    "rmse": 1031.0172558602878,
+    "mae": 627.9451733977359
+  },
+  "compliance_metrics": {
+    "model_r2": 0.9948813734748928,
+    "model_rmse": 1031.0172558602878,
+    "model_mae": 627.9451733977359,
+    "avg_intensity": 0.079254368663311,
+    "target_intensity": 0.07529165023014545,
+    "total_vessels": 120,
+    "surplus_count": 95,
+    "deficit_count": 25,
+    "total_surplus": 76.13199454237282,
+    "total_deficit": 81.83830908613122,
+    "net_balance": -5.7063145437583955,
+    "compliance_rate": 79.16666666666666,
+    "estimated_market_value": 1141.262908751679,
+    "fleet_compliant": 

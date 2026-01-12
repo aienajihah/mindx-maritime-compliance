@@ -1,0 +1,26 @@
+[
+  {
+    "vessel_id": "NG005",
+    "anomaly_type": "High CO2 per Distance",
+    "metric_value": 146.3086283794945,
+    "threshold": 129.94673297446855,
+    "date": "2026-01-12",
+    "recommended_action": "Check engine calibration and consider fuel switch"
+  },
+  {
+    "vessel_id": "NG005",
+    "anomaly_type": "High CO2 per Distance",
+    "metric_value": 139.76355194428322,
+    "threshold": 129.94673297446855,
+    "date": "2026-01-12",
+    "recommended_action": "Check engine calibration and consider fuel switch"
+  },
+  {
+    "vessel_id": "NG008",
+    "anomaly_type": "High CO2 per Distance",
+    "metric_value": 134.46989595770083,
+    "threshold": 129.94673297446855,
+    "date": "2026-01-12",
+    "recommended_action": "Check engine calibration and consider fuel switch"
+  }
+]

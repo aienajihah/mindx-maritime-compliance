@@ -1,0 +1,946 @@
+[
+  {
+    "buyer": "NG002",
+    "seller": "NG001",
+    "credits": 0.7024309398059426,
+    "value_usd": 140.48618796118853,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG002",
+    "seller": "NG003",
+    "credits": 0.7049993500938528,
+    "value_usd": 140.99987001877057,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG002",
+    "seller": "NG004",
+    "credits": 0.8799941506514455,
+    "value_usd": 175.9988301302891,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG002",
+    "seller": "NG005",
+    "credits": 0.836587784505383,
+    "value_usd": 167.31755690107659,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG002",
+    "seller": "NG006",
+    "credits": 0.17939168913036474,
+    "value_usd": 35.87833782607295,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG009",
+    "seller": "NG006",
+    "credits": 0.6967983785035455,
+    "value_usd": 139.35967570070912,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG009",
+    "seller": "NG007",
+    "credits": 0.8795843811960739,
+    "value_usd": 175.91687623921476,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG009",
+    "seller": "NG008",
+    "credits": 0.8364367088337294,
+    "value_usd": 167.2873417667459,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG009",
+    "seller": "NG011",
+    "credits": 0.7051972158470475,
+    "value_usd": 141.0394431694095,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG009",
+    "seller": "NG012",
+    "credits": 0.14929918442452805,
+    "value_usd": 29.85983688490561,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG010",
+    "seller": "NG012",
+    "credits": 0.6849358702914183,
+    "value_usd": 136.98717405828367,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG010",
+    "seller": "NG013",
+    "credits": 0.8808143116614007,
+    "value_usd": 176.16286233228013,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG010",
+    "seller": "NG014",
+    "credits": 0.7145021835903053,
+    "value_usd": 142.90043671806106,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG010",
+    "seller": "NG015",
+    "credits": 0.8788623206519289,
+    "value_usd": 175.7724641303858,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG010",
+    "seller": "NG016",
+    "credits": 0.12730761557632364,
+    "value_usd": 25.46152311526473,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG019",
+    "seller": "NG016",
+    "credits": 0.7081300073421655,
+    "value_usd": 141.6260014684331,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG019",
+    "seller": "NG017",
+    "credits": 0.8416477272536046,
+    "value_usd": 168.32954545072093,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG019",
+    "seller": "NG018",
+    "credits": 0.8775958433190207,
+    "value_usd": 175.51916866380415,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG019",
+    "seller": "NG020",
+    "credits": 0.7192175872601818,
+    "value_usd": 143.84351745203637,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG019",
+    "seller": "NG021",
+    "credits": 0.40173671327209215,
+    "value_usd": 80.34734265441843,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG030",
+    "seller": "NG021",
+    "credits": 0.477242180925464,
+    "value_usd": 95.4484361850928,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG030",
+    "seller": "NG022",
+    "credits": 0.710234936884913,
+    "value_usd": 142.0469873769826,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG030",
+    "seller": "NG023",
+    "credits": 0.6960070188533274,
+    "value_usd": 139.20140377066548,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG030",
+    "seller": "NG024",
+    "credits": 0.835434770770777,
+    "value_usd": 167.0869541541554,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG030",
+    "seller": "NG025",
+    "credits": 0.343066008522837,
+    "value_usd": 68.61320170456739,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG031",
+    "seller": "NG025",
+    "credits": 0.3607495952376879,
+    "value_usd": 72.14991904753758,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG031",
+    "seller": "NG026",
+    "credits": 0.7000888010405394,
+    "value_usd": 140.0177602081079,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG031",
+    "seller": "NG027",
+    "credits": 0.7050174343729636,
+    "value_usd": 141.0034868745927,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG031",
+    "seller": "NG028",
+    "credits": 0.8796356022073734,
+    "value_usd": 175.92712044147467,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG031",
+    "seller": "NG029",
+    "credits": 0.6322354349176583,
+    "value_usd": 126.44708698353166,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG035",
+    "seller": "NG029",
+    "credits": 0.0617376111548511,
+    "value_usd": 12.34752223097022,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG035",
+    "seller": "NG032",
+    "credits": 0.8337111135710125,
+    "value_usd": 166.74222271420248,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG035",
+    "seller": "NG033",
+    "credits": 0.7008364177174184,
+    "value_usd": 140.16728354348368,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG035",
+    "seller": "NG034",
+    "credits": 0.8805218465662582,
+    "value_usd": 176.10436931325165,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG035",
+    "seller": "NG036",
+    "credits": 0.8366816686776033,
+    "value_usd": 167.33633373552067,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG035",
+    "seller": "NG037",
+    "credits": 0.1385696320773101,
+    "value_usd": 27.71392641546202,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG039",
+    "seller": "NG037",
+    "credits": 0.6984020677556825,
+    "value_usd": 139.6804135511365,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG039",
+    "seller": "NG038",
+    "credits": 0.702017924611575,
+    "value_usd": 140.403584922315,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG039",
+    "seller": "NG041",
+    "credits": 0.7109057154819514,
+    "value_usd": 142.18114309639026,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG039",
+    "seller": "NG042",
+    "credits": 0.8363598930731667,
+    "value_usd": 167.27197861463335,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG039",
+    "seller": "NG043",
+    "credits": 0.3908809642620833,
+    "value_usd": 78.17619285241666,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG040",
+    "seller": "NG043",
+    "credits": 0.4876732589863121,
+    "value_usd": 97.53465179726241,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG040",
+    "seller": "NG045",
+    "credits": 0.7127171902718007,
+    "value_usd": 142.54343805436014,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG040",
+    "seller": "NG046",
+    "credits": 0.7179141487819813,
+    "value_usd": 143.58282975639628,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG040",
+    "seller": "NG047",
+    "credits": 0.8789712809553761,
+    "value_usd": 175.79425619107522,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG040",
+    "seller": "NG048",
+    "credits": 0.5837791478707285,
+    "value_usd": 116.7558295741457,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG044",
+    "seller": "NG048",
+    "credits": 0.2545656876669672,
+    "value_usd": 50.91313753339344,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG044",
+    "seller": "NG049",
+    "credits": 0.8366131686061914,
+    "value_usd": 167.32263372123828,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG044",
+    "seller": "NG051",
+    "credits": 0.8788641912119677,
+    "value_usd": 175.77283824239353,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG044",
+    "seller": "NG052",
+    "credits": 0.6998963215129018,
+    "value_usd": 139.97926430258036,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG044",
+    "seller": "NG053",
+    "credits": 0.5172675912355086,
+    "value_usd": 103.45351824710171,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG050",
+    "seller": "NG053",
+    "credits": 0.32539503366039835,
+    "value_usd": 65.07900673207968,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG050",
+    "seller": "NG054",
+    "credits": 0.8374814694341091,
+    "value_usd": 167.4962938868218,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG050",
+    "seller": "NG055",
+    "credits": 0.8392718640478848,
+    "value_usd": 167.85437280957694,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG050",
+    "seller": "NG057",
+    "credits": 0.7015603799340382,
+    "value_usd": 140.31207598680763,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG050",
+    "seller": "NG058",
+    "credits": 0.6110053987929382,
+    "value_usd": 122.20107975858765,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG056",
+    "seller": "NG058",
+    "credits": 0.22938869175174748,
+    "value_usd": 45.877738350349496,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG056",
+    "seller": "NG059",
+    "credits": 0.7082336737576844,
+    "value_usd": 141.64673475153688,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG056",
+    "seller": "NG060",
+    "credits": 0.8331039193770475,
+    "value_usd": 166.6207838754095,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG056",
+    "seller": "NG061",
+    "credits": 0.8801192370235433,
+    "value_usd": 176.02384740470868,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG056",
+    "seller": "NG062",
+    "credits": 0.6034350010366976,
+    "value_usd": 120.68700020733951,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG064",
+    "seller": "NG062",
+    "credits": 0.2403801804407546,
+    "value_usd": 48.07603608815092,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG064",
+    "seller": "NG063",
+    "credits": 0.7110533903670126,
+    "value_usd": 142.21067807340253,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG064",
+    "seller": "NG065",
+    "credits": 0.7152440260588968,
+    "value_usd": 143.04880521177935,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG064",
+    "seller": "NG066",
+    "credits": 0.8339325179069352,
+    "value_usd": 166.78650358138705,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG064",
+    "seller": "NG067",
+    "credits": 0.8378809207206229,
+    "value_usd": 167.5761841441246,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG064",
+    "seller": "NG068",
+    "credits": 0.26768742904191145,
+    "value_usd": 53.53748580838229,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG073",
+    "seller": "NG068",
+    "credits": 0.43820964938272944,
+    "value_usd": 87.64192987654589,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG073",
+    "seller": "NG069",
+    "credits": 0.878206438933636,
+    "value_usd": 175.64128778672722,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG073",
+    "seller": "NG070",
+    "credits": 0.7038508064135408,
+    "value_usd": 140.77016128270816,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG073",
+    "seller": "NG071",
+    "credits": 0.834785852631895,
+    "value_usd": 166.957170526379,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG073",
+    "seller": "NG072",
+    "credits": 0.300884029527114,
+    "value_usd": 60.1768059054228,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG075",
+    "seller": "NG072",
+    "credits": 0.5771638470198835,
+    "value_usd": 115.4327694039767,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG075",
+    "seller": "NG074",
+    "credits": 0.7029753397474341,
+    "value_usd": 140.5950679494868,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG075",
+    "seller": "NG077",
+    "credits": 0.8313662792436599,
+    "value_usd": 166.273255848732,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG075",
+    "seller": "NG078",
+    "credits": 0.8799828392321399,
+    "value_usd": 175.99656784642798,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG075",
+    "seller": "NG079",
+    "credits": 0.2544737204350226,
+    "value_usd": 50.89474408700452,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG076",
+    "seller": "NG079",
+    "credits": 0.5821352245176498,
+    "value_usd": 116.42704490352995,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG076",
+    "seller": "NG080",
+    "credits": 0.7116192914990486,
+    "value_usd": 142.3238582998097,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG076",
+    "seller": "NG082",
+    "credits": 0.8327187288365318,
+    "value_usd": 166.54374576730635,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG076",
+    "seller": "NG083",
+    "credits": 0.6931155514232844,
+    "value_usd": 138.6231102846569,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG076",
+    "seller": "NG085",
+    "credits": 0.2513894529304441,
+    "value_usd": 50.27789058608882,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG081",
+    "seller": "NG085",
+    "credits": 0.5854785610995061,
+    "value_usd": 117.09571221990123,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG081",
+    "seller": "NG086",
+    "credits": 0.6975020916338801,
+    "value_usd": 139.500418326776,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG081",
+    "seller": "NG087",
+    "credits": 0.6962948996149652,
+    "value_usd": 139.25897992299303,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG081",
+    "seller": "NG088",
+    "credits": 0.8793786207639576,
+    "value_usd": 175.87572415279152,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG081",
+    "seller": "NG090",
+    "credits": 0.5445713762282205,
+    "value_usd": 108.91427524564409,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG084",
+    "seller": "NG090",
+    "credits": 0.2936397256272202,
+    "value_usd": 58.72794512544404,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG084",
+    "seller": "NG091",
+    "credits": 0.8316668717693534,
+    "value_usd": 166.33337435387068,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG084",
+    "seller": "NG094",
+    "credits": 0.7058162436033637,
+    "value_usd": 141.16324872067275,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG084",
+    "seller": "NG095",
+    "credits": 0.7018845250533474,
+    "value_usd": 140.37690501066947,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG084",
+    "seller": "NG096",
+    "credits": 0.499056717795624,
+    "value_usd": 99.8113435591248,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG089",
+    "seller": "NG096",
+    "credits": 0.37911788209878583,
+    "value_usd": 75.82357641975716,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG089",
+    "seller": "NG098",
+    "credits": 0.8353256342056052,
+    "value_usd": 167.06512684112104,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG089",
+    "seller": "NG099",
+    "credits": 0.8407684419456898,
+    "value_usd": 168.15368838913795,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG089",
+    "seller": "NG100",
+    "credits": 0.8778808567192096,
+    "value_usd": 175.5761713438419,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG089",
+    "seller": "NG101",
+    "credits": 0.16573112031226422,
+    "value_usd": 33.146224062452845,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG092",
+    "seller": "NG101",
+    "credits": 0.7121275639465932,
+    "value_usd": 142.42551278931865,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG092",
+    "seller": "NG102",
+    "credits": 0.8779093426845901,
+    "value_usd": 175.58186853691802,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG092",
+    "seller": "NG103",
+    "credits": 0.7101258236975986,
+    "value_usd": 142.0251647395197,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG092",
+    "seller": "NG104",
+    "credits": 0.7030553600248488,
+    "value_usd": 140.61107200496977,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG092",
+    "seller": "NG105",
+    "credits": 0.5040613971244199,
+    "value_usd": 100.81227942488398,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG093",
+    "seller": "NG105",
+    "credits": 0.1924789827408545,
+    "value_usd": 38.4957965481709,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG093",
+    "seller": "NG108",
+    "credits": 0.8322243375457548,
+    "value_usd": 166.44486750915095,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG093",
+    "seller": "NG109",
+    "credits": 0.8762377052796793,
+    "value_usd": 175.24754105593584,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG093",
+    "seller": "NG110",
+    "credits": 0.8795632485945098,
+    "value_usd": 175.91264971890197,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG093",
+    "seller": "NG111",
+    "credits": 0.3029711042106805,
+    "value_usd": 60.5942208421361,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG097",
+    "seller": "NG111",
+    "credits": 0.5774072955091782,
+    "value_usd": 115.48145910183565,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG097",
+    "seller": "NG112",
+    "credits": 0.6980618020928524,
+    "value_usd": 139.6123604185705,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Oil Service Boat"
+  },
+  {
+    "buyer": "NG097",
+    "seller": "NG113",
+    "credits": 0.8781433359816039,
+    "value_usd": 175.62866719632078,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG097",
+    "seller": "NG114",
+    "credits": 0.8767139596554049,
+    "value_usd": 175.34279193108097,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG097",
+    "seller": "NG115",
+    "credits": 0.18058012944522706,
+    "value_usd": 36.11602588904541,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG106",
+    "seller": "NG115",
+    "credits": 0.6961295740034124,
+    "value_usd": 139.22591480068246,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Surfer Boat"
+  },
+  {
+    "buyer": "NG106",
+    "seller": "NG116",
+    "credits": 0.8354954720378355,
+    "value_usd": 167.0990944075671,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG106",
+    "seller": "NG117",
+    "credits": 0.8393100196972201,
+    "value_usd": 167.862003939444,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG106",
+    "seller": "NG118",
+    "credits": 0.8052881041780835,
+    "value_usd": 161.0576208356167,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG107",
+    "seller": "NG118",
+    "credits": 0.03226186538919029,
+    "value_usd": 6.452373077838058,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  },
+  {
+    "buyer": "NG107",
+    "seller": "NG119",
+    "credits": 0.8356157759435134,
+    "value_usd": 167.1231551887027,
+    "buyer_ship_type": "Fishing Trawler",
+    "seller_ship_type": "Tanker Ship"
+  }
+]
